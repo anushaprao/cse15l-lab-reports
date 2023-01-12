@@ -11,3 +11,14 @@ This is part of a CSE15L Lab.
 >* MCWP50
 >* MATH20C
 >* MUS4
+
+My favorite ice-cream flavor is:
+1) Rocky Road 
+or
+2) Cherry Garcia
+
+Horizontal Rule:
+***
+
+```
+#code block
