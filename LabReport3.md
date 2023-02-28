@@ -126,7 +126,7 @@ results in:
 ```
 The -c command can also be used on individual files to have the number of instances of a search word returned. If a user is curious about a certain appearing in a specific text, they can search and see how many times it is mentioned. 
 
-I found this command line option at https://www.geeksforgeeks.org/grep-command-in-unixlinux/. 
+I found this command line option at (https://www.geeksforgeeks.org/grep-command-in-unixlinux/). 
 
 ---
 
@@ -163,9 +163,9 @@ written_2/travel_guides/berlitz1/WhereToFrance.txt:756:        the water pipes, 
 written_2/travel_guides/berlitz1/WhereToMalaysia.txt:377:        in the days before air-conditioning. These havens of relaxation set
 written_2/travel_guides/berlitz1/WhereToMalaysia.txt:2445:        orchids. Highly efficient air-conditioning makes life tolerable for
 ```
-The -n command also works with searching for a key term throughout each file in a directory, and lists the line and file where the word being searched for is found in each file. 
+The -n command also works with searching for a key term throughout each file in a directory, and lists the line and file where the word being searched for is found in each file. This is useful for instances when a certain key term is being searched for as it allows the user to see where specifically in the file the term can be found. This is useful for larger files as the user does not have to absently search the returned file for the keyword and rather can target the specific line.
 
-I found this command line option at https://www.geeksforgeeks.org/grep-command-in-unixlinux/.
+I found this command line option at (https://www.geeksforgeeks.org/grep-command-in-unixlinux/).
 
 ---
 
@@ -199,7 +199,7 @@ written_2/travel_guides/berlitz1/WhereToLosAngeles.txt:        for longer stays.
 ```
 The -i command uses the grep command to search for the term "san pedro" and finds all instances of the term, presenting a list of the files which contain any instance of the searched word. The result is a list of files which contain San Pedro.
 
-I found this command line argument at https://www.softwaretestinghelp.com/grep-command-in-unix/.
+I found this command line argument at (https://www.softwaretestinghelp.com/grep-command-in-unix/).
 
 ---
 
@@ -260,6 +260,6 @@ Recommended Hotels
         $$$50–$100
         $under $50
 ```
-I thought that this output was very interesting to me as I was looking to eliminate any lines containing the phrase "Las Vegas." As the word is split over two lines at the start of the file, the -v command does not eliminate it from the text, demonstrating how it only searches to see if the term is contained within the line.
+I thought that this output was very interesting to me as I was looking to eliminate any lines containing the phrase "Las Vegas." As the word is split over two lines at the start of the file, the -v command does not eliminate it from the text, demonstrating how it only searches to see if the term is contained within the line. An instance where the -v command could be useful is if the user had a list of names, and they were looking to see all the names beside a known one. 
 
-I found this command line option at https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/.
+I found this command line option at (https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/).
