@@ -165,7 +165,7 @@ written_2/travel_guides/berlitz1/WhereToMalaysia.txt:2445:        orchids. Highl
 ```
 The -n command also works with searching for a key term throughout each file in a directory, and lists the line and file where the word being searched for is found in each file. This is useful for instances when a certain key term is being searched for as it allows the user to see where specifically in the file the term can be found. This is useful for larger files as the user does not have to absently search the returned file for the keyword and rather can target the specific line.
 
-I found this command line option at (https://www.geeksforgeeks.org/grep-command-in-unixlinux/).
+I found this command line option at [https://www.geeksforgeeks.org/grep-command-in-unixlinux/](https://www.geeksforgeeks.org/grep-command-in-unixlinux/).
 
 ---
 
@@ -262,4 +262,4 @@ Recommended Hotels
 ```
 I thought that this output was very interesting to me as I was looking to eliminate any lines containing the phrase "Las Vegas." As the word is split over two lines at the start of the file, the -v command does not eliminate it from the text, demonstrating how it only searches to see if the term is contained within the line. An instance where the -v command could be useful is if the user had a list of names, and they were looking to see all the names beside a known one. 
 
-I found this command line option at (https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/).
+I found this command line option at [https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/](https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/).
