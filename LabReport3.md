@@ -126,7 +126,7 @@ results in:
 ```
 The -c command can also be used on individual files to have the number of instances of a search word returned. If a user is curious about a certain appearing in a specific text, they can search and see how many times it is mentioned. 
 
-I found this command line option at (https://www.geeksforgeeks.org/grep-command-in-unixlinux/). 
+I found this command line option at [https://www.geeksforgeeks.org/grep-command-in-unixlinux/](https://www.geeksforgeeks.org/grep-command-in-unixlinux/). 
 
 ---
 
