@@ -2,7 +2,7 @@
 ## CSE Labs "Done Quick"
 In this lab, we attempted to complete routine tasks using shortcuts in order to maximize efficiency. 
 
-The steps for the tasks were numbered and give to us. The first step is to delete any existing forks of the lab7 repository. This can be done by going into the fork's settings, scrolling down and selecting "Delete this repository." The second step is to fork the repository. The third step before we get into the lab is to start the timer!
+The steps for the tasks were numbered and given to us. The first step is to delete any existing forks of the lab7 repository. This can be done by going into the fork's settings, scrolling down and selecting "Delete this repository." The second step is to fork the repository. The third step before we get into the lab is to start the timer!
 
 ### Step 4: Log into ieng6
 *Keys pressed: ```<up><enter>```*
