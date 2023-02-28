@@ -199,7 +199,7 @@ written_2/travel_guides/berlitz1/WhereToLosAngeles.txt:        for longer stays.
 ```
 The -i command uses the grep command to search for the term "san pedro" and finds all instances of the term, presenting a list of the files which contain any instance of the searched word. The result is a list of files which contain San Pedro.
 
-I found this command line argument at (https://www.softwaretestinghelp.com/grep-command-in-unix/).
+I found this command line argument at [https://www.softwaretestinghelp.com/grep-command-in-unix/](https://www.softwaretestinghelp.com/grep-command-in-unix/).
 
 ---
 
